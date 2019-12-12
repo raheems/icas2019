@@ -1,4 +1,4 @@
 # icas2019
 ICAS 2019 ISRT DU
 
-This repository contains my presentation at the international conference on applied statistics held at the institute of statistical research and training under university of Dhaka Bangladesh.
+This repository contains my presentation at the International Conference on Applied Statistics held at the Institute of Statistical Research and Training under University of Dhaka, Bangladesh.
